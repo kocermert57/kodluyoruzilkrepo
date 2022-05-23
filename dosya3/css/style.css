@@ -1,0 +1,46 @@
+html{
+    background-color: rgb(206, 176, 102);
+}
+
+strong{
+    font-size: 15px;
+}
+.bordo{
+    color: #800000;
+}
+h1{
+    color: #800000;
+}
+.italic{
+    font-style: italic  ;
+    font-weight: 700;
+}
+.main span{
+margin-right: 5px;
+}
+.main{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+}
+.list{
+    display: flex;
+    justify-content: right;
+}
+label{
+   
+    border:1px solid #800000;
+    color: white;
+    background-color: #800000;
+    border-radius: 20px;
+  
+}
+article{
+    margin-top: 20px;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    
+    
+}
